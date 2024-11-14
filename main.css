@@ -133,13 +133,13 @@ input#open {
 }
 
 .text-one:before {
-  content:"Monthsary";
+  content:"BIRTHDAY";
   top:30px;
   color: #d04e4e;
 }
 
 .text-one:after {
-  content:"My Baby Pai!";
+  content:"My Magayun^^";
   top:60px;
 }
 
